@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Stupid_password_generator", "06.Stupid_password_generator\06.Stupid_password_generator.csproj", "{68FB6B34-1395-4E6F-8E51-23795BBE87F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Draw_fort", "05.Draw_fort\05.Draw_fort.csproj", "{4DE0BD0C-4A83-49CC-BED7-7DD85BD1BE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Histogram", "04.Histogram\04.Histogram.csproj", "{91D95462-439F-4ADB-9DFC-760EC9D538B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.On_time_for_the_exam", "03.On_time_for_the_exam\03.On_time_for_the_exam.csproj", "{9F86D425-8D01-4E09-B16C-F45E840A8D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Transport_price", "02.Transport_price\02.Transport_price.csproj", "{895669F2-8F49-462F-BC82-A8B9D342C564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Training_lab", "01.Training_lab\01.Training_lab.csproj", "{D76B138C-F375-47E1-B7DC-B418A743795A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FB6B34-1395-4E6F-8E51-23795BBE87F2}.Debug|x86.ActiveCfg = Debug|x86
+		{68FB6B34-1395-4E6F-8E51-23795BBE87F2}.Debug|x86.Build.0 = Debug|x86
+		{68FB6B34-1395-4E6F-8E51-23795BBE87F2}.Release|x86.ActiveCfg = Release|x86
+		{68FB6B34-1395-4E6F-8E51-23795BBE87F2}.Release|x86.Build.0 = Release|x86
+		{4DE0BD0C-4A83-49CC-BED7-7DD85BD1BE90}.Debug|x86.ActiveCfg = Debug|x86
+		{4DE0BD0C-4A83-49CC-BED7-7DD85BD1BE90}.Debug|x86.Build.0 = Debug|x86
+		{4DE0BD0C-4A83-49CC-BED7-7DD85BD1BE90}.Release|x86.ActiveCfg = Release|x86
+		{4DE0BD0C-4A83-49CC-BED7-7DD85BD1BE90}.Release|x86.Build.0 = Release|x86
+		{91D95462-439F-4ADB-9DFC-760EC9D538B0}.Debug|x86.ActiveCfg = Debug|x86
+		{91D95462-439F-4ADB-9DFC-760EC9D538B0}.Debug|x86.Build.0 = Debug|x86
+		{91D95462-439F-4ADB-9DFC-760EC9D538B0}.Release|x86.ActiveCfg = Release|x86
+		{91D95462-439F-4ADB-9DFC-760EC9D538B0}.Release|x86.Build.0 = Release|x86
+		{9F86D425-8D01-4E09-B16C-F45E840A8D5A}.Debug|x86.ActiveCfg = Debug|x86
+		{9F86D425-8D01-4E09-B16C-F45E840A8D5A}.Debug|x86.Build.0 = Debug|x86
+		{9F86D425-8D01-4E09-B16C-F45E840A8D5A}.Release|x86.ActiveCfg = Release|x86
+		{9F86D425-8D01-4E09-B16C-F45E840A8D5A}.Release|x86.Build.0 = Release|x86
+		{895669F2-8F49-462F-BC82-A8B9D342C564}.Debug|x86.ActiveCfg = Debug|x86
+		{895669F2-8F49-462F-BC82-A8B9D342C564}.Debug|x86.Build.0 = Debug|x86
+		{895669F2-8F49-462F-BC82-A8B9D342C564}.Release|x86.ActiveCfg = Release|x86
+		{895669F2-8F49-462F-BC82-A8B9D342C564}.Release|x86.Build.0 = Release|x86
+		{D76B138C-F375-47E1-B7DC-B418A743795A}.Debug|x86.ActiveCfg = Debug|x86
+		{D76B138C-F375-47E1-B7DC-B418A743795A}.Debug|x86.Build.0 = Debug|x86
+		{D76B138C-F375-47E1-B7DC-B418A743795A}.Release|x86.ActiveCfg = Release|x86
+		{D76B138C-F375-47E1-B7DC-B418A743795A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
