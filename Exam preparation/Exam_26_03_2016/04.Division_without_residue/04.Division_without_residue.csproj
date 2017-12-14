@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{674B5EF0-88D5-44EA-8418-38356E181FD6}</ProjectGuid>
+    <ProjectGuid>{154809DC-9FC3-4F08-A3D6-634AEBEA5E4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Magic_numbers</RootNamespace>
-    <AssemblyName>06.Magic_numbers</AssemblyName>
+    <RootNamespace>Division_without_residue</RootNamespace>
+    <AssemblyName>04.Division_without_residue</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

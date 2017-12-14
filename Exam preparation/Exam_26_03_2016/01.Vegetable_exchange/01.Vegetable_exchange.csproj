@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{E78CE960-4191-4DD9-B7C8-0E093CF4AB91}</ProjectGuid>
+    <ProjectGuid>{B13B2786-93C2-4E34-B555-67B5D74EF2F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Vegetable_exchange</RootNamespace>
     <AssemblyName>01.Vegetable_exchange</AssemblyName>

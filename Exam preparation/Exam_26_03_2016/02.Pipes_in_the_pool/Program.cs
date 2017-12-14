@@ -44,13 +44,13 @@ namespace Pipes_in_the_pool
             {
                 double poolFillPercentage = Math.Truncate((sumPipesvolume * 100) / poolVolume);
 
-                int pipeOnePercentage = (int) Math.Truncate((sumPipeOneVolume * 100) / sumPipesvolume);
-                int pipeTwoPercentage = (int) Math.Truncate((sumPipeTwoVolume * 100) / sumPipesvolume);
+                int pipeOnePercentage = (int)Math.Truncate((sumPipeOneVolume * 100) / sumPipesvolume);
+                int pipeTwoPercentage = (int)Math.Truncate((sumPipeTwoVolume * 100) / sumPipesvolume);
 
                 Console.WriteLine($"The pool is {poolFillPercentage}% full. Pipe 1: {(int)pipeOnePercentage}%." +
                                   $" Pipe 2: {(int)pipeTwoPercentage}%.");
             }
-            else 
+            else
             {
                 double poolOverflows = sumPipesvolume - (double)poolVolume;
 

@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{3A448CB0-AAF7-4307-9415-EC5386AB4D85}</ProjectGuid>
+    <ProjectGuid>{B45B7D3F-7A9C-45D6-A91E-5763D9DB56EF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pipes_in_the_pool</RootNamespace>
-    <AssemblyName>02.Pipes_in_the_pool</AssemblyName>
+    <RootNamespace>Butterfly</RootNamespace>
+    <AssemblyName>05.Butterfly</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

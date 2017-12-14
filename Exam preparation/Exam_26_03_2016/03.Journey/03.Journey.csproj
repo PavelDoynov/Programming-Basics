@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{3C035F6A-DF78-4711-8645-E544D146D573}</ProjectGuid>
+    <ProjectGuid>{5C6D5B2C-0BAC-4EE4-B33B-DC8F47CE9A16}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Butterfly</RootNamespace>
-    <AssemblyName>05.Butterfly</AssemblyName>
+    <RootNamespace>Journey</RootNamespace>
+    <AssemblyName>03.Journey</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
