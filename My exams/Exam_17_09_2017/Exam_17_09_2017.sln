@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Birthday", "01.Birthday\01.Birthday.csproj", "{2934D2F5-229C-4602-AF36-C0BFB63B6511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Three_brothers", "02.Three_brothers\02.Three_brothers.csproj", "{96C5F9EA-2C1D-4B82-9584-EAB3D39D5BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Mobile_operator", "03.Mobile_operator\03.Mobile_operator.csproj", "{DBE80BE2-5AD0-4DE8-8D5B-4D13CDDD153A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Grandpa_Stavri", "04.Grandpa_Stavri\04.Grandpa_Stavri.csproj", "{C6521166-BA20-43C9-A979-BE7D8D4115D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Sheriff", "05.Sheriff\05.Sheriff.csproj", "{6F24628A-E169-496C-8E7D-F5D02B610896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.The_song_of_the_wheels", "06.The_song_of_the_wheels\06.The_song_of_the_wheels.csproj", "{CD439D12-BA05-475D-BB70-13301A9268D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2934D2F5-229C-4602-AF36-C0BFB63B6511}.Debug|x86.ActiveCfg = Debug|x86
+		{2934D2F5-229C-4602-AF36-C0BFB63B6511}.Debug|x86.Build.0 = Debug|x86
+		{2934D2F5-229C-4602-AF36-C0BFB63B6511}.Release|x86.ActiveCfg = Release|x86
+		{2934D2F5-229C-4602-AF36-C0BFB63B6511}.Release|x86.Build.0 = Release|x86
+		{96C5F9EA-2C1D-4B82-9584-EAB3D39D5BF2}.Debug|x86.ActiveCfg = Debug|x86
+		{96C5F9EA-2C1D-4B82-9584-EAB3D39D5BF2}.Debug|x86.Build.0 = Debug|x86
+		{96C5F9EA-2C1D-4B82-9584-EAB3D39D5BF2}.Release|x86.ActiveCfg = Release|x86
+		{96C5F9EA-2C1D-4B82-9584-EAB3D39D5BF2}.Release|x86.Build.0 = Release|x86
+		{DBE80BE2-5AD0-4DE8-8D5B-4D13CDDD153A}.Debug|x86.ActiveCfg = Debug|x86
+		{DBE80BE2-5AD0-4DE8-8D5B-4D13CDDD153A}.Debug|x86.Build.0 = Debug|x86
+		{DBE80BE2-5AD0-4DE8-8D5B-4D13CDDD153A}.Release|x86.ActiveCfg = Release|x86
+		{DBE80BE2-5AD0-4DE8-8D5B-4D13CDDD153A}.Release|x86.Build.0 = Release|x86
+		{C6521166-BA20-43C9-A979-BE7D8D4115D1}.Debug|x86.ActiveCfg = Debug|x86
+		{C6521166-BA20-43C9-A979-BE7D8D4115D1}.Debug|x86.Build.0 = Debug|x86
+		{C6521166-BA20-43C9-A979-BE7D8D4115D1}.Release|x86.ActiveCfg = Release|x86
+		{C6521166-BA20-43C9-A979-BE7D8D4115D1}.Release|x86.Build.0 = Release|x86
+		{6F24628A-E169-496C-8E7D-F5D02B610896}.Debug|x86.ActiveCfg = Debug|x86
+		{6F24628A-E169-496C-8E7D-F5D02B610896}.Debug|x86.Build.0 = Debug|x86
+		{6F24628A-E169-496C-8E7D-F5D02B610896}.Release|x86.ActiveCfg = Release|x86
+		{6F24628A-E169-496C-8E7D-F5D02B610896}.Release|x86.Build.0 = Release|x86
+		{CD439D12-BA05-475D-BB70-13301A9268D6}.Debug|x86.ActiveCfg = Debug|x86
+		{CD439D12-BA05-475D-BB70-13301A9268D6}.Debug|x86.Build.0 = Debug|x86
+		{CD439D12-BA05-475D-BB70-13301A9268D6}.Release|x86.ActiveCfg = Release|x86
+		{CD439D12-BA05-475D-BB70-13301A9268D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
